@@ -1,0 +1,10 @@
+.urlPan {
+  display: flex;
+  justify-content: space-between;
+  width: 900px;
+}
+.message {
+  text-align: center;
+  color: blueviolet;
+  font-size: 20px;
+}
